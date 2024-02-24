@@ -83,6 +83,10 @@ header{
     background-color:var(--black-900);
     z-index: +99;
 }
+header .row {
+    align-items: center;
+    justify-content: space-between;
+}
 .logo img{
     width: 80px;
 }
